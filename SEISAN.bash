@@ -6,7 +6,8 @@
 # set platform, used for compilation, 
 # MUST BE: solaris, linux32, linux64, windows, macosx or macosxppc
 #
-export SEISARCH="linux64"
+export SEISARCH="gfortran"
+#export SEISARCH="linux64"
 #export SEISARCH="linux32"
 #export SEISARCH="solaris"
 
