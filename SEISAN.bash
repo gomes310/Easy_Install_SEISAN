@@ -14,7 +14,7 @@ export SEISARCH="gfortran"
 #
 #    set SEISAN top directory
 #
-export SEISAN_TOP="/home/tiago/seisan"   
+export SEISAN_TOP="/home/$USER/seisan"   
 
 #
 # set editor
